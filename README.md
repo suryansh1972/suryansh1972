@@ -2,7 +2,7 @@
 
 **`AI Engineer | Data Scientist`**
 
-I’m a passionate developer building practical AI systems, scalable data platforms, and full-stack products that solve real-world problems — from concept → architecture → code → deployment.
+An enthusiastic developer who builds software applications for societal impact
 
 <p align="left">
    <a href="https://github.com/suryansh1972?tab=followers">
