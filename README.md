@@ -35,7 +35,7 @@ I’m a passionate developer building practical AI systems, scalable data platfo
 
 ---
 
-### 📊 GitHub Stats (WORKING 2025)
+### 📊 GitHub Stats
 
 <img 
   alt="Stats"
@@ -44,7 +44,7 @@ I’m a passionate developer building practical AI systems, scalable data platfo
 
 ---
 
-### 🔤 Top Languages (WORKING 2025)
+### 🔤 Top Languages
 
 <img 
   alt="Top Languages"
@@ -53,7 +53,7 @@ I’m a passionate developer building practical AI systems, scalable data platfo
 
 ---
 
-### 🔥 Streaks (WORKING 2025)
+### 🔥 Streaks
 
 <img 
   src="https://streak-stats.demolab.com?user=suryansh1972&theme=tokyonight&hide_border=true&border_radius=10"
