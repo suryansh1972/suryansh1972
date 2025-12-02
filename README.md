@@ -1,6 +1,6 @@
 # 🧠 Suryansh SHivaprasad
 
-**`AI Engineer | Data Scientist | Full-Stack Developer`**
+**`AI Engineer | Data Scientist `**
 
 I’m a passionate developer building practical AI systems, scalable data platforms, and full-stack products that solve real-world problems. I take ideas from concept → architecture → code → deployment.  
 Everything I build — whether ML pipelines, dashboards, APIs, or automations — is crafted end-to-end with attention to detail, performance, and clean engineering.
@@ -58,29 +58,14 @@ Everything I build — whether ML pipelines, dashboards, APIs, or automations �
   />
 </p>
 
----
-
-### 🚀 What I Build
-- AI pipelines, ML models & data systems  
-- Interactive dashboards & insightful visualizations  
-- Full-stack apps with beautiful UI/UX  
-- Cloud-native deployments (Docker + K8s)  
-- Automation scripts that save hours every day  
-
----
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="mailto:suryansh@gmail.com">
+  <a href="mailto:suryanshshivaprasad9212@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40px" />
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com](https://www.linkedin.com/in/suryansh-shivaprasad-80ab76201/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40px" />
   </a>
 </p>
 
----
-
-<p align="center">
-   ⭐️ If you like my work, consider starring the repositories!
-</p>
